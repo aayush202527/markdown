@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Markdown to Rich Text",
+  "description": "A web app that converts Markdown from Gemini, including mathematical formulas, into a rich text format that can be easily pasted into applications like Microsoft Word and OneNote.",
+  "requestFramePermissions": []
+}
